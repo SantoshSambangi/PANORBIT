@@ -5,6 +5,7 @@ const Gallery = () => {
   return (
     <div>
       <Navbar />
+      <h1>gallery</h1>
     </div>
   );
 };
